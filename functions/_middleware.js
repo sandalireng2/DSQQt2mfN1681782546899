@@ -3,10 +3,11 @@
 // Other countries: choose randomly from three destinations.
 // HTTP response: 200; browser navigation is performed by JavaScript.
 
-const INDONESIA_DESTINATION = "https://www.youtube.com/";
+const INDONESIA_DESTINATION = "https://www.youtube.com";
 
 const INTERNATIONAL_DESTINATIONS = [
   "https://mail.adminforge.de/",
+  "https://mailhole.de/",
   "https://mailhole.de/",
   "https://mail.cx/"
 ];
@@ -23,7 +24,7 @@ function htmlResponse(destination) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Redirect Link</title>
+  <title>Redirecting</title>
   <meta name="description" content="Mengalihkan Anda ke tujuan tautan.">
   <meta name="robots" content="noindex, nofollow">
   <script>
