@@ -24,8 +24,8 @@ function htmlResponse(destination) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> </title>
-  <meta name="description" content="Mengalihkan Anda ke tujuan tautan.">
+  <title>Redirecting</title>
+  <meta name="description" content="Link in bio tool: Everything you are, in one simple link | Linktree">
   <meta name="robots" content="noindex, nofollow">
   <script>
     window.location.replace(${safeDestination});
