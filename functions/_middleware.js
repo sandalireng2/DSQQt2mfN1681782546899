@@ -6,9 +6,9 @@
 const INDONESIA_DESTINATION = "https://www.youtube.com/";
 
 const INTERNATIONAL_DESTINATIONS = [
-  "https://www.youtube.com/",
-  "https://www.youtube.com/",
-  "https://www.youtube.com/"
+  "https://mail.adminforge.de/",
+  "https://mailhole.de/",
+  "https://mail.cx/"
 ];
 
 function pickRandom(items) {
