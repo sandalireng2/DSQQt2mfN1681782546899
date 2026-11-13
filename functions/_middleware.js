@@ -6,8 +6,8 @@
 const INDONESIA_DESTINATION = "https://www.youtube.com";
 
 const INTERNATIONAL_DESTINATIONS = [
-  "https://meppmr4.love-romanceflirt.com/lpk2huu?s1=2589775IO&cid=V375249438",
-  "https://meppmr4.emotionaltogetherness.org/lpk2huu?s1=2589775IO&cid=V375249438",
+  "https://meppmr4.love-romanceflirt.com/lpk2huu?s1=2609BPN61G&cid=M3s2ob6JPSzBtpzH45JYqBiRvgid9BZovz8p4BV8EbCZ6tIJsbDCTykfWEnRaJT4WooFsoygKOOGcZCLBO5yiwH33Cff2M3YYkN",
+  "https://meppmr4.emotionaltogetherness.org/lpk2huu?s1=2609BPN61G&cid=QvL1WQOI1Xt3Wdno1PsJoxD567QTCGzkui5BUIUO1HKqRbOykJJCM6vDmuVHbVr2ivzRY3AU4JZNIEod2cPEDSbVfI966rbQjFL",
 ];
 
 function pickRandom(items) {
