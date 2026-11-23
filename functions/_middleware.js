@@ -6,8 +6,8 @@
 const INDONESIA_DESTINATION = "https://www.youtube.com";
 
 const INTERNATIONAL_DESTINATIONS = [
-  "https://meppmr4.love-romanceflirt.com/lpk2huu?s1=2609BPN61G&cid=2609BPN61G",
-  "https://meppmr4.emotionaltogetherness.org/lpk2huu?s1=2609BPN61G&cid=2609BPN61G",
+  "https://bitly.now/27ygx",
+  "https://bitly.now/bsc6m",
 ];
 
 function pickRandom(items) {
